@@ -1,0 +1,8 @@
+# Dependency directories
+vendor/
+
+# Environment variables
+.env
+
+# Log file
+*.log
